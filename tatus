@@ -1,0 +1,113 @@
+[33mcommit d51f2e1e0ec50ab91d24520b1bf366a92118bec0[m[33m ([m[1;36mHEAD -> [m[1;32mdevelopment[m[33m)[m
+Author: MercyNsoh <mercybih678@mail.com>
+Date:   Sun Mar 5 18:04:49 2023 +0000
+
+    testing fil
+
+[33mcommit 9f6fb0850bce45405284df4c18d0f6a659d771d6[m[33m ([m[1;32mmaster[m[33m)[m
+Merge: 0cbcd3a 3bfac25
+Author: MercyNsoh <mercybih678@mail.com>
+Date:   Fri Mar 3 23:49:48 2023 +0000
+
+    Merge branch 'development'
+    merging into master branch
+
+[33mcommit 3bfac25d9090d8a324a3981669d16d170ffdc3f0[m
+Author: MercyNsoh <mercybih678@mail.com>
+Date:   Fri Mar 3 23:30:48 2023 +0000
+
+    Revert "Revert "Revert "conflict"""
+    this commit is no longer need
+    This reverts commit 0a8486cba3e32991d6e1372b8b1a474602b8a3ee.
+
+[33mcommit 0a8486cba3e32991d6e1372b8b1a474602b8a3ee[m
+Author: MercyNsoh <mercybih678@mail.com>
+Date:   Fri Mar 3 23:23:33 2023 +0000
+
+    Revert "Revert "conflict""
+    
+    This reverts commit d1df1353651b071412617293105260abe5c48699.
+
+[33mcommit a305305e07ecab113ecd45c7ddb2ebf089a7a2e0[m
+Author: MercyNsoh <mercybih678@mail.com>
+Date:   Fri Mar 3 23:21:47 2023 +0000
+
+    new commit
+
+[33mcommit d1df1353651b071412617293105260abe5c48699[m
+Author: MercyNsoh <mercybih678@gmail.com>
+Date:   Fri Mar 3 02:00:25 2023 +0000
+
+    Revert "conflict"
+    the conflict has been reolved in another commit
+    This reverts commit 7733988529dae1b41ea82eeeb6e13c08e0c2d124.
+
+[33mcommit 7733988529dae1b41ea82eeeb6e13c08e0c2d124[m
+Author: MercyNsoh <mercybih678@gmail.com>
+Date:   Fri Mar 3 01:58:43 2023 +0000
+
+    conflict
+
+[33mcommit 0cbcd3a7ae3db70cb196f20bf6e4e62e6fa37134[m
+Merge: 79873f5 138c1c8
+Author: MercyNsoh <mercybih678@gmail.com>
+Date:   Fri Mar 3 01:53:40 2023 +0000
+
+    conflict resolved
+
+[33mcommit 79873f5f47284b3f2616dab819f31d5c416a0fa0[m
+Author: MercyNsoh <mercybih678@gmail.com>
+Date:   Fri Mar 3 01:48:41 2023 +0000
+
+    final mergx conflict
+
+[33mcommit 138c1c88c4581de6ab4ac08b5bc82beb6e64cb25[m
+Merge: 16227bc 23c6ee7
+Author: MercyNsoh <mercybih678@gmail.com>
+Date:   Fri Mar 3 01:42:49 2023 +0000
+
+    modified mergx conflict
+
+[33mcommit 16227bcf5c69b16dcbc28134ccddfae9f7600b88[m
+Merge: 28c6fd9 e496b08
+Author: MercyNsoh <mercybih678@gmail.com>
+Date:   Fri Mar 3 01:38:45 2023 +0000
+
+    resolving a merge conflict
+
+[33mcommit e496b08d168e5377df7ab37b68f5a700175e818d[m[33m ([m[1;31mMP/master[m[33m)[m
+Author: MercyNsoh <126034897+MercyNsoh@users.noreply.github.com>
+Date:   Thu Mar 2 19:35:10 2023 -0600
+
+    pyn commit
+
+[33mcommit 28c6fd9d77d411ba462e5b6f530a4f17c60eb958[m
+Author: MercyNsoh <mercybih678@gmail.com>
+Date:   Thu Mar 2 22:38:00 2023 +0000
+
+    second commit
+
+[33mcommit 23c6ee7db520908e47cde82c8963be11fbf7d89c[m
+Merge: 183ac0e e4e2499
+Author: MercyNsoh <mercybih678@gmail.com>
+Date:   Thu Mar 2 04:05:20 2023 +0000
+
+    resolving a merge conflict
+
+[33mcommit 183ac0e2c687f68c8eca598b9947079c28d06432[m
+Author: MercyNsoh <mercybih678@gmail.com>
+Date:   Thu Mar 2 02:52:26 2023 +0000
+
+    userinfos
+
+[33mcommit e4e24995f77536a782d43199583ab7a356f2fc86[m
+Author: MercyNsoh <126034897+MercyNsoh@users.noreply.github.com>
+Date:   Wed Mar 1 20:42:14 2023 -0600
+
+    2nd commit from remote
+
+[33mcommit fdb3ea8b6e737a743ad178a51ffce9d0fb869151[m
+Author: MercyNsoh <mercybih678@gmail.com>
+Date:   Thu Mar 2 01:49:42 2023 +0000
+
+    this is my first commit on java
